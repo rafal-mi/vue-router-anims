@@ -1,5 +1,9 @@
 # vue-router-anims
 
+Tutorial from coursetro.com
+
+https://coursetro.com/posts/code/141/Learn-how-to-Create-Vue-Router-Animations---Transitions-Between-Pages
+
 ## Project setup
 ```
 npm install
